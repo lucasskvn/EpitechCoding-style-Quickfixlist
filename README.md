@@ -13,6 +13,6 @@ A shit way to put epitech coding-style-reports.log in vim/nvim quickfix.
 }
 ```
 
-### Usage : [[:CSquickfix]], it will execute [[coding-style .]] and parse all the output in the quickfix list.
+### Usage : <kbd>:CSquickfix<kbd>, it will execute <kbd>coding-style .<kbd> and parse all the output in the quickfix list.
 
 Myself Notes : its 04:38, it's shit don't use it. I built it for fun loveliveandstantripleS
